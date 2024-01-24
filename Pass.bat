@@ -21,7 +21,7 @@ goto END
 :UNLOCK
 echo Sifreyi giriniz:
 set /p "pass=>"
-if NOT %pass%== 05364974968 goto FAIL
+if NOT %pass%== ##Wanted Password## goto FAIL
 attrib -h -s "Control Panel.{21EC202O-3AEA-1069-A2DD-08002B30309D}"
 ren "Control Panel.{21EC202O-3AEA-1069-A2DD-08002B30309D}" Kilitli
 echo Folder Unlocked successaaaay
