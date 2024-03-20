@@ -1,1 +1,1 @@
-# lockFolderWithBasicInCMD
+# lockFolderWithCMD
